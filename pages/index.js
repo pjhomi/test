@@ -10,6 +10,7 @@ export default function Home() {
           <Listings listing={listing} key={listing.listing_id}></Listings>
         ))}
       </div>
+<h7>test</h7>
     </Layout>
   );
 }
