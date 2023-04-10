@@ -42,7 +42,7 @@ function MyApp({ Component, pageProps }) {
         }}
       ></Script> */}
       <script
-        id='ua-script'
+        id='ganalytics-script'
         dangerouslySetInnerHTML={{
           __html: `
       /* UA tracking code */
